@@ -37,6 +37,9 @@ npx playwright test --headed
 npx playwright test --project=chromium
 npx playwright test --headed --project=chromium --workers=1 --retries=0
 npx playwright test --project=chromium 2>&1
+
+
+Run This File : npx playwright test --headed --workers=1
 .
 ├── playwright.config.ts
 ├── package.json
@@ -49,3 +52,4 @@ npx playwright test --project=chromium 2>&1
 Name: Chandula Jeewantha
 IT Number: IT23543164
 Module: ITPM Assignment 1
+
