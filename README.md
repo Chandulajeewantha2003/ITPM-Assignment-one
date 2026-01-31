@@ -18,7 +18,7 @@ This test suite includes:
 
 ---
 
-## 🧰 Prerequisites
+## 🧰 Prerequisites 
 
 Make sure the following are installed:
 
